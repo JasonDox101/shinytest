@@ -1,6 +1,7 @@
 {
   "version": 1,
   "locale": "zh_CN.UTF-8",
+  "platform": "4.3.0",
   "metadata": {
     "appmode": "shiny",
     "entrypoint": "app.R"
