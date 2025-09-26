@@ -1,0 +1,87 @@
+{
+  "version": 1,
+  "locale": "zh_CN.UTF-8",
+  "metadata": {
+    "appmode": "shiny",
+    "entrypoint": "app.R"
+  },
+  "python": null,
+  "quarto": null,
+  "r": {
+    "version": "4.3.0",
+    "package_manager": {
+      "name": "packrat",
+      "version": "0.9.2"
+    },
+    "packages": {
+      "shiny": {
+        "description": {
+          "Package": "shiny",
+          "Version": "1.7.5",
+          "Source": "CRAN",
+          "Repository": "https://cran.rstudio.com"
+        }
+      },
+      "DT": {
+        "description": {
+          "Package": "DT",
+          "Version": "0.29",
+          "Source": "CRAN",
+          "Repository": "https://cran.rstudio.com"
+        }
+      },
+      "plotly": {
+        "description": {
+          "Package": "plotly",
+          "Version": "4.10.2",
+          "Source": "CRAN",
+          "Repository": "https://cran.rstudio.com"
+        }
+      },
+      "ggplot2": {
+        "description": {
+          "Package": "ggplot2",
+          "Version": "3.4.3",
+          "Source": "CRAN",
+          "Repository": "https://cran.rstudio.com"
+        }
+      },
+      "testthat": {
+        "description": {
+          "Package": "testthat",
+          "Version": "3.1.10",
+          "Source": "CRAN",
+          "Repository": "https://cran.rstudio.com"
+        }
+      },
+      "shinytest2": {
+        "description": {
+          "Package": "shinytest2",
+          "Version": "0.3.1",
+          "Source": "CRAN",
+          "Repository": "https://cran.rstudio.com"
+        }
+      }
+    }
+  },
+  "environment": {
+    "LANG": "zh_CN.UTF-8"
+  },
+  "files": {
+    "app.R": {
+      "checksum": "5d41402abc4b2a76b9719d911017c592"
+    },
+    "tests/testthat.R": {
+      "checksum": "5d41402abc4b2a76b9719d911017c593"
+    },
+    "tests/testthat/test-app.R": {
+      "checksum": "5d41402abc4b2a76b9719d911017c594"
+    },
+    "manifest.json": {
+      "checksum": "5d41402abc4b2a76b9719d911017c595"
+    },
+    "DESCRIPTION": {
+      "checksum": "5d41402abc4b2a76b9719d911017c596"
+    }
+  }
+}
