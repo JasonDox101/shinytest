@@ -5,7 +5,7 @@ library(ggplot2)
 
 # Define UI
 ui <- fluidPage(
-  titlePanel("Shiny test -test update periodically"),
+  titlePanel("Shiny test -test update periodically----123123 copy?"),
   
   sidebarLayout(
     sidebarPanel(
